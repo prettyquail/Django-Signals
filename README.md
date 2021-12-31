@@ -3,9 +3,8 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-<div align="center">
-    ![](images/admin.PNG)
-</div>
+
+![](images/admin.PNG)
 
 
 ### Built With
